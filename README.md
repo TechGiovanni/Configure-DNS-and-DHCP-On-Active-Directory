@@ -3,7 +3,7 @@
 </p>
 
 # Configure DNS and DHCP on Active Directory for WIN10 and Win7 Clients.
-This tutorial outlines how to install an active directory and configure Windows 10 and 7 clients to receive DHCP ipv4 addresses from the domain server and also configure DNS for ip address to name translation. 
+This tutorial outlines how to install an active directory on server 2019 and configure Windows 10 and 7 Clients to receive DHCP IPv4 Addresses from the Domain Server and also configure DNS for IP Address translation. 
 - This allows us to ping win7 or win10 without typing in the specific ip address of those clients
 - Thihs alos alows us to receive ipv4 addresses from a predefined scope of addresses that we will configure
 <br />
